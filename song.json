@@ -1,72 +1,74 @@
-[
-  {
-    "id": 1,
-    "titolo": "Blinding",
-    "artista": "The Weeknd",
-    "durata_min": "3:20",
-    "immagine": "https://billboard.it/wp-content/uploads/2025/09/The-Weeknd-Blinding-Lights-Spotify-record-1024x576.jpg"
-  },
-  {
-    "id": 2,
-    "titolo": "Stay",
-    "artista": "Justin Bieber",
-    "durata_min": "2:21",
-    "immagine": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkTJczUoc26U&psig=AOvVaw1KGwcxtEqR6ntuwPVqBYca&ust=1758015302610000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCy1b672o8DFQAAAAAdAAAAABAE"
-  },
-  {
-    "id": 3,
-    "titolo": "Levitating",
-    "artista": "Dua Lipa",
-    "durata_min": "3:23",
-    "immagine": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fopen.spotify.com%2Fintl-it%2Ftrack%2F5nujrmhLynf4yMoMtj8AQF&psig=AOvVaw1u0wI8d6YKJ3HLhk047SFn&ust=1758015466187000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDUk4282o8DFQAAAAAdAAAAABAE"
-  },
-  {
-    "id": 4,
-    "titolo": "Peaches",
-    "artista": "Justin Bieber",
-    "durata_min": "3:18",
-    "immagine": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtQ0yjYUFKAE&psig=AOvVaw1s8dUuqInjIHxp2c_DdVbO&ust=1758015499646000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNj5v5y82o8DFQAAAAAdAAAAABAE"
-  },
-  {
-    "id": 5,
-    "titolo": "Save Your",
-    "artista": "The Weeknd",
-    "durata_min": "3:35",
-    "immagine": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.wikipedia.org%2Fwiki%2FSave_Your_Tears&psig=AOvVaw2V0R6HbAO9Y5XNAP0hUdSs&ust=1758015521579000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMCy4qe82o8DFQAAAAAdAAAAABAE"
-  },
-  {
-    "id": 6,
-    "titolo": "Watermelon",
-    "artista": "Harry Styles",
-    "durata_min": "2:54",
-    "immagine": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7-x3uD5z1bQ&psig=AOvVaw2ZiMRfZtU2kuNlAr0ZziSZ&ust=1758015551142000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNC40LW82o8DFQAAAAAdAAAAABAE"
-  },
-  {
-    "id": 7,
-    "titolo": "Bad Habits",
-    "artista": "Ed Sheeran",
-    "durata_min": "3:50",
-    "immagine": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daninseries.it%2Fed-sheeran-tornato-video-nuovo-singolo-bad-habits%2F&psig=AOvVaw3m8akxhoVWHw6xg7oVqjFF&ust=1758015587236000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJj9qMa82o8DFQAAAAAdAAAAABAE"
-  },
-  {
-    "id": 8,
-    "titolo": "Heat Waves",
-    "artista": "Glass Animals",
-    "durata_min": "3:58",
-    "immagine": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHeat_Waves&psig=AOvVaw2_oZaoX4tPVhka6vVVuZI_&ust=1758015605421000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLC7xNG82o8DFQAAAAAdAAAAABAE"
-  },
-  {
-    "id": 9,
-    "titolo": "Montero",
-    "artista": "Lil Nas X",
-    "durata_min": "2:17",
-    "immagine": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rivistastudio.com%2Flil-nas-x-montero%2F&psig=AOvVaw3D4pU-ctGXQYCUOXA_thAs&ust=1758015634275000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiNg9282o8DFQAAAAAdAAAAABAK"
-  },
-  {
-    "id": 10,
-    "titolo": "Good 4 U",
-    "artista": "Olivia Rodrigo",
-    "durata_min": "2:58",
-    "immagine": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Fit%2Ftitle%2Ftt14644268%2F&psig=AOvVaw0m8mTBJMtFbCpGeCLoKwTE&ust=1758015658448000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCND9mum82o8DFQAAAAAdAAAAABAE"
-  }
-]
+{
+  "song": [ 
+    {
+      "id": "1",
+      "titolo": "Blinding",
+      "artista": "The Weeknd",
+      "durata_min": "3:20",
+      "immagine": "https://billboard.it/wp-content/uploads/2025/09/The-Weeknd-Blinding-Lights-Spotify-record-1024x576.jpg"
+    },
+    {
+      "id": 2,
+      "titolo": "Stay",
+      "artista": "Justin Bieber",
+      "durata_min": "2:21",
+      "immagine": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkTJczUoc26U&psig=AOvVaw1KGwcxtEqR6ntuwPVqBYca&ust=1758015302610000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCy1b672o8DFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 3,
+      "titolo": "Levitating",
+      "artista": "Dua Lipa",
+      "durata_min": "3:23",
+      "immagine": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fopen.spotify.com%2Fintl-it%2Ftrack%2F5nujrmhLynf4yMoMtj8AQF&psig=AOvVaw1u0wI8d6YKJ3HLhk047SFn&ust=1758015466187000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDUk4282o8DFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 4,
+      "titolo": "Peaches",
+      "artista": "Justin Bieber",
+      "durata_min": "3:18",
+      "immagine": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtQ0yjYUFKAE&psig=AOvVaw1s8dUuqInjIHxp2c_DdVbO&ust=1758015499646000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNj5v5y82o8DFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 5,
+      "titolo": "Save Your",
+      "artista": "The Weeknd",
+      "durata_min": "3:35",
+      "immagine": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.wikipedia.org%2Fwiki%2FSave_Your_Tears&psig=AOvVaw2V0R6HbAO9Y5XNAP0hUdSs&ust=1758015521579000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMCy4qe82o8DFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 6,
+      "titolo": "Watermelon",
+      "artista": "Harry Styles",
+      "durata_min": "2:54",
+      "immagine": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7-x3uD5z1bQ&psig=AOvVaw2ZiMRfZtU2kuNlAr0ZziSZ&ust=1758015551142000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNC40LW82o8DFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 7,
+      "titolo": "Bad Habits",
+      "artista": "Ed Sheeran",
+      "durata_min": "3:50",
+      "immagine": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daninseries.it%2Fed-sheeran-tornato-video-nuovo-singolo-bad-habits%2F&psig=AOvVaw3m8akxhoVWHw6xg7oVqjFF&ust=1758015587236000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJj9qMa82o8DFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 8,
+      "titolo": "Heat Waves",
+      "artista": "Glass Animals",
+      "durata_min": "3:58",
+      "immagine": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHeat_Waves&psig=AOvVaw2_oZaoX4tPVhka6vVVuZI_&ust=1758015605421000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLC7xNG82o8DFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": 9,
+      "titolo": "Montero",
+      "artista": "Lil Nas X",
+      "durata_min": "2:17",
+      "immagine": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rivistastudio.com%2Flil-nas-x-montero%2F&psig=AOvVaw3D4pU-ctGXQYCUOXA_thAs&ust=1758015634275000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiNg9282o8DFQAAAAAdAAAAABAK"
+    },
+    {
+      "id": 10,
+      "titolo": "Good 4 U",
+      "artista": "Olivia Rodrigo",
+      "durata_min": "2:58",
+      "immagine": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Fit%2Ftitle%2Ftt14644268%2F&psig=AOvVaw0m8mTBJMtFbCpGeCLoKwTE&ust=1758015658448000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCND9mum82o8DFQAAAAAdAAAAABAE"
+    }
+  ]
+}
